@@ -4,6 +4,8 @@
 
 It's the `cat` command, except it redacts the NSF list of prohibited words.
 
+![](example.png)
+
 ## 🚫 Inspiration
 
 This tool is inspired by the word list published at
